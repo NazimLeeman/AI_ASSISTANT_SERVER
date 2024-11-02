@@ -1,1 +1,2 @@
 # AI_ASSISTANT_SERVER
+The AI Assistant Server is a versatile and robust application developed with Bun, TypeScript, and the LangChain library. It enables the creation and management of diverse agents, each tailored to specific tasks and equipped with specialized tools to enhance task completion. The server uses WebSockets to facilitate real-time communication and collaboration with clients, providing a seamless and responsive experience.
